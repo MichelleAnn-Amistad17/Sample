@@ -1,0 +1,213 @@
+body{
+	background-image: url("bg1.jpg");
+  background-size: 100%;
+  font-family: Helvetica, sans-serif;
+}
+img {
+  height: 150px;
+  width: 150px;
+  padding: 10px;
+}
+
+h3{
+  margin: 10px;
+}
+
+.AlignBoxCenter{
+  height: 700px;
+  width: 1310px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.title {
+  background-color: #2b9348;
+  height: 60px;
+  width: 1310px;
+  padding: 1px;
+  text-align: center;
+  border-radius: 10px 10px 0px 0px; 
+  color: white;
+}
+
+.LeftBox{
+  background-color: white;
+  height: 750px;
+  width: 530px;
+  float: left;
+}
+
+.bigBoxLeft1{
+  height: 535px;
+  width: 290px;
+  float: left;
+}
+.bigBoxLeft2{
+  height: 535px;
+  width: 240px;
+  float: left;
+}
+
+.PlantsOrderChoicesBox {
+  background-color: #CBE9B8;
+  height: 115px;
+  width: 275px;
+  float: left;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.selector{
+  margin-left: 30px;
+  margin-bottom: 7px;
+}
+
+.selectorLabel{
+  font-size: 14px;
+}
+
+.indoorBox {
+  background-color: #CBE9B8;
+  float: left;
+  height: 120px;
+  width: 220px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+.outdoorBox {
+  background-color: #CBE9B8;
+  float: left;
+  height: 120px;
+  width: 220px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+
+}
+
+.button {
+  background-color: #F0FFF0;
+  height: 30px;
+  width: 200px;
+  border: 1px solid;
+  border-radius: 5px;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  margin-bottom: 8px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #00FF7F;
+}
+
+.btnBox {
+  background-color: #CBE9B8;
+  float: left;
+  height: 235px;
+  width: 220px;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+
+.ordersBox {
+  background-color: #CBE9B8;
+  height: 400px;
+  width: 275px;
+  float: left;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.orderslabel{
+  height: 350px;
+  width: 115px;
+  float: left;
+  text-align: right;
+}
+
+.label{
+  margin-top: 8px;
+  line-height: 43px;
+  font-size: 12px;
+}
+
+.orderstextfield{
+  height: 350px;
+  width: 150px;
+  float: left;
+}
+
+.textfield{
+  width: 140px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.summaryBox
+{
+	background-color: #CBE9B8;
+	width: 520px;
+	height: 205px;
+  float: left;
+  margin: 5px;
+  border-radius: 5px;
+}
+.inputBox {
+	float: left;
+  height: 215px;
+  width: 300px;
+  margin: 5px;
+}
+.imageBox{
+  width: 200px;
+  height: 215px;
+	float: left;
+  margin: 5px;
+}
+.receiptBox{
+	height: 180px;
+	width: 280px;
+}
+.productorderImage
+{
+  width: 190px;
+  height: 180px;
+
+}
+
+.bigBoxRight{
+  width: 780px;
+  height: auto;
+  float: left;
+}
+
+.PlantsChoicesBox {
+  background-color: #f5f1ed;
+  float: left;
+  height: 750px;
+  width: 780px;
+  padding: 1px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+.product{
+  background-color: #CBE9B8;
+  height: 210px;
+  width: 184px;
+  float:left;
+  margin: 3px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
